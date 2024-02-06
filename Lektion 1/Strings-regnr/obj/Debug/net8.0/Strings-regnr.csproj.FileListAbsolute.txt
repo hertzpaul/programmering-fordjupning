@@ -1,0 +1,14 @@
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/Strings-regnr/bin/Debug/net8.0/Strings-regnr
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/Strings-regnr/bin/Debug/net8.0/Strings-regnr.deps.json
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/Strings-regnr/bin/Debug/net8.0/Strings-regnr.runtimeconfig.json
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/Strings-regnr/bin/Debug/net8.0/Strings-regnr.dll
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/Strings-regnr/bin/Debug/net8.0/Strings-regnr.pdb
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/Strings-regnr/obj/Debug/net8.0/Strings-regnr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/Strings-regnr/obj/Debug/net8.0/Strings-regnr.AssemblyInfoInputs.cache
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/Strings-regnr/obj/Debug/net8.0/Strings-regnr.AssemblyInfo.cs
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/Strings-regnr/obj/Debug/net8.0/Strings-regnr.csproj.CoreCompileInputs.cache
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/Strings-regnr/obj/Debug/net8.0/Strings-regnr.dll
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/Strings-regnr/obj/Debug/net8.0/refint/Strings-regnr.dll
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/Strings-regnr/obj/Debug/net8.0/Strings-regnr.pdb
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/Strings-regnr/obj/Debug/net8.0/Strings-regnr.genruntimeconfig.cache
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/Strings-regnr/obj/Debug/net8.0/ref/Strings-regnr.dll
