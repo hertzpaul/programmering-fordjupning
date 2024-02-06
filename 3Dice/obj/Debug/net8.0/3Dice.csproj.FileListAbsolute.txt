@@ -1,0 +1,14 @@
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/3Dice/bin/Debug/net8.0/3Dice
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/3Dice/bin/Debug/net8.0/3Dice.deps.json
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/3Dice/bin/Debug/net8.0/3Dice.runtimeconfig.json
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/3Dice/bin/Debug/net8.0/3Dice.dll
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/3Dice/bin/Debug/net8.0/3Dice.pdb
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/3Dice/obj/Debug/net8.0/3Dice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/3Dice/obj/Debug/net8.0/3Dice.AssemblyInfoInputs.cache
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/3Dice/obj/Debug/net8.0/3Dice.AssemblyInfo.cs
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/3Dice/obj/Debug/net8.0/3Dice.csproj.CoreCompileInputs.cache
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/3Dice/obj/Debug/net8.0/3Dice.dll
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/3Dice/obj/Debug/net8.0/refint/3Dice.dll
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/3Dice/obj/Debug/net8.0/3Dice.pdb
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/3Dice/obj/Debug/net8.0/3Dice.genruntimeconfig.cache
+/Users/paulhertz/TUC/Programmering fördjupning/Lektion 1/3Dice/obj/Debug/net8.0/ref/3Dice.dll
